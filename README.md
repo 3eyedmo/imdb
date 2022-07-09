@@ -1,5 +1,5 @@
 # discription :
-this project aimed at scraping information of top 250 movies of IMDB.
+this project aimed at scraping information of top 250 movies of IMDB. i used python framework named scrapy for this goal.
 
 ### data path:
 The scraped data is saved in /crawl/data/info.json path
