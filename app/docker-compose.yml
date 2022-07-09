@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  app:
+    build: "./"
+    container_name: "imdb"
+    volumes:
+      - type: 'bind'
+        source: './crawl/data/'
+        target: '/usr/src/app/crawl/data/'
