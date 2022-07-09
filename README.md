@@ -1,6 +1,9 @@
 # discription :
 this project aimed at scraping information of top 250 movies of IMDB.
 
+### data path:
+The scraped data is saved in /crawl/data/info.json path
+
 # installation :
 ### using docker
 ```bash
